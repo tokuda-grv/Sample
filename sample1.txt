@@ -5,5 +5,3 @@ sample1�̍X�V�m�F
 branch
 
 atom
-
-atom3
